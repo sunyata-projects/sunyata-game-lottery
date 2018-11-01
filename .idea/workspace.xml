@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/lottery-edy-common/src/main/java/org/sunyata/lottery/edy/common/vo/GamePlayRequest.java" line="159" mnemonic="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c2f7a75-590b-4dd1-9cfe-8383988cf0a4" name="Default" comment="" />
+    <list default="true" id="7c2f7a75-590b-4dd1-9cfe-8383988cf0a4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/lottery-edy-penetrate/target/" />
     <ignored path="$PROJECT_DIR$/sunyata-game-application-service/target/" />
     <ignored path="$PROJECT_DIR$/sunyata-game-app-client/target/" />
@@ -85,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -95,11 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="418">
+              <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -198,6 +202,9 @@
       <replace>http://124.243.235.226:8084/</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HierarchyBrowserManager">
     <option name="SORT_ALPHABETICALLY" value="true" />
   </component>
@@ -225,7 +232,6 @@
         <option value="$PROJECT_DIR$/sunyata-core/src/main/java/org/sunyata/core/json/Json.java" />
         <option value="$PROJECT_DIR$/lottery-edy-common/src/main/java/org/sunyata/lottery/edy/common/vo/Request.java" />
         <option value="$PROJECT_DIR$/sunyata-game-application-service/src/main/java/org/sunyata/game/game/eliminate/EliminateBet.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$USER_HOME$/tools/ccop_deploy/edy120.py" />
         <option value="$USER_HOME$/tools/ccop_deploy/edy121.py" />
         <option value="$PROJECT_DIR$/lottery-edy-inner-gateway/src/main/resources/application-demo.properties" />
@@ -255,6 +261,7 @@
         <option value="$PROJECT_DIR$/lottery-edy-mock-engine/src/main/java/org/sunyata/game/edy/mock/engine/HomeHandler.java" />
         <option value="$PROJECT_DIR$/lottery-edy-common/src/main/java/org/sunyata/lottery/edy/common/constant/Commands.java" />
         <option value="$PROJECT_DIR$/sunyata-game-application-service/src/main/java/org/sunyata/game/game/regular/command/RegularEndGameCommand.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -287,6 +294,7 @@
     <option name="width" value="1879" />
     <option name="height" value="1008" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -516,12 +524,12 @@
       <workItem from="1524216787025" duration="14973000" />
       <workItem from="1525321100926" duration="1524000" />
       <workItem from="1525347508738" duration="17000" />
-      <workItem from="1541054483730" duration="818000" />
+      <workItem from="1541054483730" duration="1903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218493000" />
+    <option name="totallyTimeSpent" value="219578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1020" extended-state="6" />
@@ -537,7 +545,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.16541755" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.23814774" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Spring" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info id="Capture Tool" order="2" />
@@ -954,18 +962,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
