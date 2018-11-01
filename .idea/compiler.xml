@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lottery-edy-ai" />
+        <module name="lottery-edy-ai-core" />
+        <module name="lottery-edy-common" />
+        <module name="lottery-edy-contract" />
+        <module name="lottery-edy-gateway" />
+        <module name="lottery-edy-inner-gateway" />
+        <module name="lottery-edy-interact" />
+        <module name="lottery-edy-mock-engine" />
+        <module name="lottery-edy-penetrate" />
+        <module name="lottery-edy-sales-system" />
+        <module name="lottery-edy-state-manager" />
+        <module name="sunyata-core" />
+        <module name="sunyata-game-app-client" />
+        <module name="sunyata-game-application-service" />
+        <module name="sunyata-game-core" />
+        <module name="sunyata-game-majiang-core" />
+        <module name="sunyata-spring-boot-thrift" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lottery-edy-ai" target="1.8" />
+      <module name="lottery-edy-ai-core" target="1.8" />
+      <module name="lottery-edy-common" target="1.8" />
+      <module name="lottery-edy-contract" target="1.8" />
+      <module name="lottery-edy-gateway" target="1.8" />
+      <module name="lottery-edy-inner-gateway" target="1.8" />
+      <module name="lottery-edy-interact" target="1.8" />
+      <module name="lottery-edy-mock-engine" target="1.8" />
+      <module name="lottery-edy-penetrate" target="1.8" />
+      <module name="lottery-edy-sales-system" target="1.8" />
+      <module name="lottery-edy-state-manager" target="1.8" />
+      <module name="sunyata-core" target="1.8" />
+      <module name="sunyata-game-app-client" target="1.8" />
+      <module name="sunyata-game-application-service" target="1.8" />
+      <module name="sunyata-game-core" target="1.8" />
+      <module name="sunyata-game-lottery" target="1.8" />
+      <module name="sunyata-game-majiang-core" target="1.8" />
+      <module name="sunyata-game-majiang-scene-service" target="1.8" />
+      <module name="sunyata-spring-boot-thrift" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

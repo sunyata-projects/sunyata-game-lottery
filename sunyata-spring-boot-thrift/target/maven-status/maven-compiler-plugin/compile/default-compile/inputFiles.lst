@@ -1,0 +1,14 @@
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/AbstractThriftClientKeyMapper.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/transport/TLoadBalancerClient.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/annotation/EnableThriftClient.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/ThriftClientAutoConfiguration.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/pool/ThriftClientKey.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/ThriftClientBeanPostProcessor.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/pool/ThriftClientPool.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/ThriftClientsMapBeanPostProcessor.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/pool/ThriftClientPooledObjectFactory.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/pool/ThriftClientPooledObject.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/PoolConfiguration.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/sleuth/ThriftHttpTransportSpanInjector.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/annotation/ThriftClient.java
+/Users/apple/work/ssa/sunyata-game-lottery/sunyata-spring-boot-thrift/src/main/java/org/sunyata/spring/thrift/client/annotation/ThriftClientsMap.java

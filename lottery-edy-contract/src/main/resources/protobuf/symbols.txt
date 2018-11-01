@@ -1,0 +1,29 @@
+getSymbols:
+    Game101:
+        stageId:WAGER.FirstWager
+            response.gameData.keys:
+                center:String //玩家初始手牌
+                centerId:String //初始手牌id
+        stageId:WAGER.TimesWager
+            request.gameData.keys:
+                centerId:String //初始手牌id
+                prizeId:String //奖档id
+            response.gameData.keys:
+                cardId:String //牌库id
+                centerId:String //初始手牌id
+                center:String //初始手牌
+                left:String //玩家左边机器人手牌
+                right:String //玩家右边机器人手牌
+                under:String //暗牌
+        stageId:WAGER.PlayCardsOver
+            request:
+            response.gameData.keys:
+                isWin:boolean //是否赢牌
+                bombNumbers:int //炸弹数量
+    Game105:
+        stageId:WAGER.FirstWager
+            request.gameData.keys:
+                prizeId:String
+                isOpenBox:boolean //本次下注是否开宝箱
+            response.gameData.keys:
+                cards:List //待消除的牌

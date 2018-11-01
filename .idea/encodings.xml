@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery-edy-ai" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery-edy-ai-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery-edy-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery-edy-contract" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery-edy-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery-edy-inner-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery-edy-interact" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery-edy-mock-engine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery-edy-penetrate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery-edy-sales-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lottery-edy-state-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sunyata-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sunyata-game-app-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sunyata-game-application-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sunyata-game-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sunyata-game-majiang-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sunyata-game-majiang-scene-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sunyata-spring-boot-thrift" charset="UTF-8" />
+  </component>
+</project>

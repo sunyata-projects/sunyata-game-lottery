@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lottery-edy-ai/lottery-edy-ai.iml" filepath="$PROJECT_DIR$/lottery-edy-ai/lottery-edy-ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-edy-ai-core/lottery-edy-ai-core.iml" filepath="$PROJECT_DIR$/lottery-edy-ai-core/lottery-edy-ai-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-edy-common/lottery-edy-common.iml" filepath="$PROJECT_DIR$/lottery-edy-common/lottery-edy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-edy-contract/lottery-edy-contract.iml" filepath="$PROJECT_DIR$/lottery-edy-contract/lottery-edy-contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-edy-gateway/lottery-edy-gateway.iml" filepath="$PROJECT_DIR$/lottery-edy-gateway/lottery-edy-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-edy-inner-gateway/lottery-edy-inner-gateway.iml" filepath="$PROJECT_DIR$/lottery-edy-inner-gateway/lottery-edy-inner-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-edy-interact/lottery-edy-interact.iml" filepath="$PROJECT_DIR$/lottery-edy-interact/lottery-edy-interact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-edy-mock-engine/lottery-edy-mock-engine.iml" filepath="$PROJECT_DIR$/lottery-edy-mock-engine/lottery-edy-mock-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-edy-penetrate/lottery-edy-penetrate.iml" filepath="$PROJECT_DIR$/lottery-edy-penetrate/lottery-edy-penetrate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-edy-sales-system/lottery-edy-sales-system.iml" filepath="$PROJECT_DIR$/lottery-edy-sales-system/lottery-edy-sales-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-edy-state-manager/lottery-edy-state-manager.iml" filepath="$PROJECT_DIR$/lottery-edy-state-manager/lottery-edy-state-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunyata-core/sunyata-core.iml" filepath="$PROJECT_DIR$/sunyata-core/sunyata-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunyata-game-app-client/sunyata-game-app-client.iml" filepath="$PROJECT_DIR$/sunyata-game-app-client/sunyata-game-app-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunyata-game-application-service/sunyata-game-application-service.iml" filepath="$PROJECT_DIR$/sunyata-game-application-service/sunyata-game-application-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunyata-game-core/sunyata-game-core.iml" filepath="$PROJECT_DIR$/sunyata-game-core/sunyata-game-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunyata-game-lottery.iml" filepath="$PROJECT_DIR$/sunyata-game-lottery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunyata-game-majiang-core/sunyata-game-majiang-core.iml" filepath="$PROJECT_DIR$/sunyata-game-majiang-core/sunyata-game-majiang-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunyata-spring-boot-thrift/sunyata-spring-boot-thrift.iml" filepath="$PROJECT_DIR$/sunyata-spring-boot-thrift/sunyata-spring-boot-thrift.iml" />
+    </modules>
+  </component>
+</project>
