@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sunyata-game
          
 interact->engine:
@@ -288,3 +289,6 @@ interact->engine:
               },
               "success" : true
             }                                                                 
+=======
+# sunyata.game.lottery
+>>>>>>> cf33b96b1542c9faaab4bfcfe9825a1be4312f63
